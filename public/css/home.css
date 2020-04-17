@@ -1,0 +1,39 @@
+body {
+  background: #D8D8D8;
+}
+
+header {
+  /* position:absolute; */
+  z-index: 1;
+  position: fixed;
+   top: 0;
+}
+.home_content {
+  margin-top:12rem;
+}
+
+
+.home_img {
+  width:60%;
+  margin:0 auto;
+
+  /* padding-left:7%; */
+}
+
+
+
+
+
+.home_box p{
+  position:absolute;
+  top:75%;
+  left:5%;
+  font-size:30px;
+}
+
+.home_box img{
+  width:100%;
+  height:auto;
+}
+
+/* -------------------------------------------------------------------------- */
